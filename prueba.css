@@ -1,28 +1,38 @@
-.boton{
-width:400px;
-height:400px;
-border-radius: 20px;
-opacity:0.5;
+.boton {
+  width: 400px;
+  height: 400px;
+  border-radius: 20px;
+  opacity: 0.5;
 }
-#boton1{
+
+#boton1 {
   background-color: navy;
 }
-#boton2{
+
+#boton2 {
   background-color: orangered;
 }
-#boton3{
+
+#boton3 {
   background-color: yellow;
 }
-#boton4{
+
+#boton4 {
   background-color: green;
 }
-.empezar{
-  width:150px;
+
+.empezar {
+  width: 150px;
   height: 150px;
-  background-color:white;
-  color:black;
+  background-color: white;
+  color: black;
   border-radius: 20px;
 }
-.boton:focus{
-  opacity:1;
+
+.boton:focus {
+  opacity: 1;
+}
+
+.juego {
+  justify-content: start;
 }
